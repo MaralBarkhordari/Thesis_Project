@@ -20,6 +20,7 @@ This project explores accelerated molecular dynamics (aMD) for simulating peptid
   - Dihedral angle distributions.
   - Principal component analysis (PCA).
   - Root-mean-square deviation (RMSD).
+  - Clustering
 
 ## Tools and Technologies
 - **AMBER**: For molecular dynamics simulations.
